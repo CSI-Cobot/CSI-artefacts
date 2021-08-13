@@ -4,4 +4,4 @@ This repository contains the article resources and media in association with the
 
 ### Summary of submission artifacts and resources:
 
- * 
+ * `safety-controller-verification.build.zip`: Compiled scenario DT used for validation of the synthesised safety controller
