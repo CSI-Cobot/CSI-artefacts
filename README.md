@@ -1,4 +1,4 @@
-# CSI-artifacts
+# CSI-artefacts
 
 This repository is the public archive of the Confident Safety Integration (CSI:Cobot) 
 project, containing the media and examples relating to our associated articles.
