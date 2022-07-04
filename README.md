@@ -3,6 +3,8 @@
 This repository is the public archive of the Confident Safety Integration (CSI:Cobot) 
 project, containing the media and examples relating to our associated articles. The support materials for the following articles are provided below:
 
+## Articles
+
 ### Safety Controller Synthesis for a Mobile Manufacturing Cobot
 _Supporting materials for our manuscript are available in the directory [here](https://github.com/CSI-Cobot/CSI-artefacts/tree/master/safety-controller-synthesis-for-a-mobile-manufacturing-cobot)._
 
@@ -12,8 +14,10 @@ _Materials supporting the manuscript can be found [here](https://github.com/CSI-
 ### Verified Synthesis of Optimal Safety Controllers for Human-Robot Collaboration
 _Materials supporting the manuscript can be found [here](https://github.com/CSI-Cobot/CSI-artefacts/tree/master/controller-synthesis)._
 
+## Examples
+
 ### Py-csi-cobotics examples and code
-_Materials supporting the manuscript can be found [here](https://github.com/CSI-Cobot/CSI-artefacts/tree/master/py-csi-cobotics-examples)._
+_Case study data and example applications of the py-csi-cobot library can be found [here](https://github.com/CSI-Cobot/CSI-artefacts/tree/master/py-csi-cobotics-examples)._
 
 ## Acknowledgements
 
