@@ -6,13 +6,13 @@ project, containing the media and examples relating to our associated articles. 
 ## Articles
 
 ### Safety Controller Synthesis for a Mobile Manufacturing Cobot
-_Supporting materials for our manuscript are available in the directory [here](https://github.com/CSI-Cobot/CSI-artefacts/tree/master/safety-controller-synthesis-for-a-mobile-manufacturing-cobot)._
+_Supporting materials for our preprint manuscript are available in the directory [here](https://github.com/CSI-Cobot/CSI-artefacts/tree/master/safety-controller-synthesis-for-a-mobile-manufacturing-cobot)._
 
 ### A Modular Digital Twinning Framework for Safety Assurance of Collaborative Robotics
-_Materials supporting the manuscript can be found [here](https://github.com/CSI-Cobot/CSI-artefacts/tree/master/a-modular-digital-twinning-framework-for-safety-assurance-of-collaborative-robotics)._
+Materials supporting our `Frontiers in Robotics and AI` article can be found [here](https://github.com/CSI-Cobot/CSI-artefacts/tree/master/a-modular-digital-twinning-framework-for-safety-assurance-of-collaborative-robotics).
 
 ### Verified Synthesis of Optimal Safety Controllers for Human-Robot Collaboration
-_Materials supporting the manuscript can be found [here](https://github.com/CSI-Cobot/CSI-artefacts/tree/master/controller-synthesis)._
+_Materials supporting our `Science of Computer Programming` article can be found [here](https://github.com/CSI-Cobot/CSI-artefacts/tree/master/controller-synthesis)._
 
 ## Examples
 
